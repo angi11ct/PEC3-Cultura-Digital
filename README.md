@@ -22,7 +22,7 @@ Just Dance no es solo un videojuego musical; es un ecosistema donde el software 
 
 Un aspecto fascinante de su producción es que la imagen que vemos no es una animación digital pura. El proceso de creación es en sí mismo un ejercicio de hibridación: se graba a **bailarines reales** caracterizados físicamente para el juego, pero el software procesa esa imagen hasta otorgarle esa estética de "neón" tan futurista que le caracteriza. Esta técnica convierte al cuerpo humano en un objeto plástico que el software puede estilizar hasta que sea casi irreconocible, creando una identidad visual tan potente que hoy, años después, la asociamos inmediatamente con la marca del juego.
 
-[Ejemplo Visual - Video Detrás de Cámaras Just Dance](https://www.youtube.com/watch?v=5cJgccGNVXo) 
+![Ejemplo Visual - Video Detrás de Cámaras Just Dance](https://www.youtube.com/watch?v=5cJgccGNVXo)
 
 * ### La "vigilancia" del algoritmo y la paradoja del mando
 
@@ -44,11 +44,13 @@ A pesar de sus limitaciones técnicas, Just Dance logra una hibridación social 
 
 El segundo caso de estudio nos lleva fuera del ámbito del ocio para entrar en la utilidad cotidiana: los sistemas **Head-up Display (HUD)** en los vehículos modernos. Aquí, la hibridación no ocurre en una pantalla cerrada, sino que el propio cristal del coche se convierte en una interfaz donde se fusionan el mundo físico y las capas de datos digitales.
 
+
+![HUD](https://miro.medium.com/v2/resize:fit:1400/1*w_iZvYloEDDD6Gb2B2LRPg.jpeg)
+
 * #### La realidad aumentada como nueva capa de visión
 
 Según Manovich, el software permite superponer capas de información sobre nuestra realidad, creando lo que llamamos **Realidad Aumentada (RA)**. En el HUD, elementos como la velocidad, las señales de tráfico o las flechas del GPS parecen "flotar" sobre el asfalto. Esta hibridación busca aumentar la seguridad al evitar que el conductor desvíe la mirada, pero como analizo en este ensayo, es un arma de doble filo. Aunque el software intenta ayudarnos, tener gráficos moviéndose constantemente frente a nuestros ojos puede generar una sobrecarga visual que confunda lo real con lo proyectado.
 
-![HUD](https://miro.medium.com/v2/resize:fit:1400/1*w_iZvYloEDDD6Gb2B2LRPg.jpeg)
 
 * #### ¿Videojuego o herramienta de seguridad?
 
@@ -95,3 +97,14 @@ Tras analizar casos tan diversos como **Just Dance** y los sistemas **HUD**, se 
 A nivel personal, mi formación en **DAW (Desarrollo de Aplicaciones Web)** me ha impulsado a abordar esta PEC desde una perspectiva técnica y experimental. He querido ir más allá de la redacción convencional de un ensayo, utilizando el lenguaje **Markdown** y la sintaxis de **Mermaid** para estructurar la información. La capacidad de integrar diagramas lógicos directamente en el repositorio de **GitHub** no es solo un recurso visual; es un ejercicio de hibridación en sí mismo, donde la escritura académica se fusiona con el flujo de trabajo del desarrollo de software.
 
 En última instancia, la cultura digital de 2026 nos exige no solo ser consumidores, sino entender los lenguajes que construyen nuestra realidad híbrida. Como desarrolladora, considero que dominar estas herramientas de comunicación abierta es fundamental para participar en la creación de una cultura compartida y accesible.
+
+## Bibliografía
+
+
+   * Manovich, L. (2013). El Software toma el mando. Barcelona: Editorial UOC.
+   * Markdown. (2024). Guía de sintaxis estándar. https://markdown.es/
+   * StackEdit. (2024). Editor Markdown en línea. https://stackedit.io/
+   * GitHub. (2024). Documentación oficial y repositorios. https://docs.github.com/es
+   * Google. (2026). Gemini 3 Flash (versión 11 de mayo) [Large language model]. https://gemini.google.com/
+        Metodología de uso: Se ha utilizado esta herramienta de IA para facilitar la investigación de datos técnicos, estructurar el contenido y la corrección ortográfica. (Google, 2026).
+   * YouTube. Plataforma de recursos de vídeo: https://www.youtube.com/
