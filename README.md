@@ -26,9 +26,9 @@ Un aspecto fascinante de su producción es que la imagen que vemos no es una ani
 
 * ### La "vigilancia" del algoritmo y la paradoja del mando
 
-Como bien apunta Manovich, en la cultura del software el usuario ya no es un espectador pasivo. En Just Dance, la clave reside en que el software nos **vigila** y puntúa. Sin embargo, aquí aparece una contradicción interesante en la hibridación: el sistema no analiza el cuerpo completo, sino que reduce toda la complejidad del baile al movimiento de un solo punto (el mando o el guante en la mano derecha).
+Como bien apunta Manovich, en la cultura del software el usuario ya no es un espectador pasivo. En Just Dance, la clave reside en que el software nos **vigila** y puntúa. Sin embargo, aquí aparece una contradicción interesante en la hibridación: el sistema no analiza el cuerpo completo, sino que reduce toda la complejidad del baile al movimiento de un solo punto (el mando o el guante en la mano).
 
-Desde mi punto de vista, este es un punto donde la hibridación puede "fallar" o ser limitada: alguien puede obtener la máxima puntuación simplemente moviendo el brazo con precisión, sin necesidad de ejecutar la coreografía completa con las piernas o el torso. Aquí vemos cómo el software **simplifica la realidad física para convertirla en un dato cuantificable**, priorizando la eficiencia del algoritmo sobre la pureza del baile. Aun así, es precisamente esta competitividad basada en el progreso y el "feedback" inmediato lo que genera el compromiso del jugador, algo que un simple vídeo de YouTube no podría lograr.
+Desde mi punto de vista, este es un punto donde la hibridación puede "fallar" o ser limitada: alguien puede obtener la máxima puntuación simplemente moviendo el brazo con precisión, sin necesidad de ejecutar la coreografía completa con las piernas o el torso. Aquí vemos cómo el software simplifica la realidad física para convertirla en un dato cuantificable, priorizando la eficiencia del algoritmo sobre la pureza del baile. Aun así, es precisamente esta competitividad basada en el progreso y el "feedback" inmediato lo que genera el compromiso del jugador, algo que un simple vídeo de YouTube no podría lograr.
 ![Feedback](https://cloudfront-eu-central-1.images.arcpublishing.com/prisaradiolos40/JQQYVYLPT5FA5H4DCXDQYL4S4A.png)
 * ### Una experiencia cinética y colectiva
 
