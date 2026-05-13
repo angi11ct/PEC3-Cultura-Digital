@@ -108,3 +108,4 @@ En última instancia, la cultura digital de 2026 nos exige no solo ser consumido
    * Google. (2026). Gemini 3 Flash (versión 11 de mayo) [Large language model]. https://gemini.google.com/
         Metodología de uso: Se ha utilizado esta herramienta de IA para facilitar la investigación de datos técnicos, estructurar el contenido y la corrección ortográfica. (Google, 2026).
    * YouTube. Plataforma de recursos de vídeo: https://www.youtube.com/
+   * Google. Plataforma desde la que se ha obtenido las fotos utilizadas. https://www.google.com/
